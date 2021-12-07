@@ -1,7 +1,6 @@
-# IEOR242_Project_BodyHealth
-IEOR class project
+# IEOR242 Class Project: BodyHealth Classification
 
-| Arthur      | Email |
+| Author      | Email |
 | ----------- | ----------- |
 | Anni Wang     | anniwang1998@berkeley.edu	|
 | Tianhao Wu     | thwu@berkeley.edu	|
