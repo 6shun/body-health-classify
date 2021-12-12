@@ -8,5 +8,8 @@
 | Zhiyong Jiang    | joe_jiangzhiyong@berkeley.edu	|
 | Zihe Yan     | sxakyzh0805@berkeley.edu		|
 
-Dataset Credit:
+**Dataset Credit:**
 [kukuroo3](https://www.kaggle.com/kukuroo3/body-performance-data)
+
+**Presentation:**
+[Youtube Link](https://www.youtube.com/watch?v=R9et_KCBZNU)
