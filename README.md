@@ -13,6 +13,7 @@
 
 **Presentation:**
 [YouTube Link](https://www.youtube.com/watch?v=R9et_KCBZNU)
+[Slides PDF](https://github.com/6shun/IEOR242_Project_BodyHealth/blob/main/Classification%20of%20Body%20Performance.pdf)
 
 **Report:**
 [Final Report PDF](https://github.com/6shun/IEOR242_Project_BodyHealth/blob/main/IEOR_242_Final_Project_Report.pdf)
